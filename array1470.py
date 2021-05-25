@@ -1,4 +1,4 @@
-class solution:
+class Solution:
 
     def shuffle(self,nums,n):
          answer=[]
